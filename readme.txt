@@ -1,4 +1,3 @@
-Chetan Patil 		cpatil2@binghamton.edu
 Samarth Parikh 		sparikh3@binghamton.edu
 
 Yeah, the code is successfully tested on bingsuns
